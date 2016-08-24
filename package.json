@@ -1,0 +1,11 @@
+{
+  "name": "API",
+  "version": "0.0.1",
+  "description": "Nueva API Rest NODE y MONGO",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "latest"
+  }
+}
